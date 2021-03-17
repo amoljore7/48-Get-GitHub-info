@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/48-Get-GitHub-info/static/css/main.ccea2c46.chunk.css",
+    "main.js": "/48-Get-GitHub-info/static/js/main.3f101f62.chunk.js",
+    "main.js.map": "/48-Get-GitHub-info/static/js/main.3f101f62.chunk.js.map",
+    "runtime-main.js": "/48-Get-GitHub-info/static/js/runtime-main.61a23c44.js",
+    "runtime-main.js.map": "/48-Get-GitHub-info/static/js/runtime-main.61a23c44.js.map",
+    "static/js/2.d8606e81.chunk.js": "/48-Get-GitHub-info/static/js/2.d8606e81.chunk.js",
+    "static/js/2.d8606e81.chunk.js.map": "/48-Get-GitHub-info/static/js/2.d8606e81.chunk.js.map",
+    "index.html": "/48-Get-GitHub-info/index.html",
+    "static/css/main.ccea2c46.chunk.css.map": "/48-Get-GitHub-info/static/css/main.ccea2c46.chunk.css.map",
+    "static/js/2.d8606e81.chunk.js.LICENSE.txt": "/48-Get-GitHub-info/static/js/2.d8606e81.chunk.js.LICENSE.txt",
+    "static/media/octocat.82c54c84.svg": "/48-Get-GitHub-info/static/media/octocat.82c54c84.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61a23c44.js",
+    "static/js/2.d8606e81.chunk.js",
+    "static/css/main.ccea2c46.chunk.css",
+    "static/js/main.3f101f62.chunk.js"
+  ]
+}
